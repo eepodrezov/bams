@@ -1,0 +1,24 @@
+.container {
+    width: 33.3%;
+}
+
+.number {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 99px;
+    line-height: 118px;
+    text-align: center;
+}
+
+.text {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12.6px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #30233D;
+}

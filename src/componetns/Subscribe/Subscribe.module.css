@@ -1,0 +1,25 @@
+.container {
+    width: 50%;
+    margin: 332px auto;
+}
+
+.header {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 67px;
+    text-align: center;
+    color: #30233D;
+}
+
+.subheader {
+    margin-top: 23px;
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #776C82;
+}

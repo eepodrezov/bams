@@ -1,0 +1,17 @@
+.container {
+    margin-top: 256px;
+    display: block;
+    align-items: center;
+
+}
+
+.header {
+    margin:0 auto;
+    width: 50%;
+}
+
+.result_block {
+    margin-top: 122px;
+    display: flex;
+    justify-content: center;
+}

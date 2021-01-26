@@ -1,0 +1,14 @@
+.container {
+    width: 95%;
+    height: 810px;
+    background: url("./src/Background.jpg") center no-repeat;
+    background-size: cover;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

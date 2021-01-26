@@ -1,0 +1,15 @@
+.container {
+    margin-top: 144px;
+    text-align: left;
+}
+
+.text {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 37px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #FCFCFC;
+}

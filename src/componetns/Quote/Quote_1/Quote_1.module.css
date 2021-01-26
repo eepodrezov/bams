@@ -1,0 +1,60 @@
+.container {
+    margin-top:60px;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    margin: 0 auto 0 auto;
+    width: 50%;
+    font-family: Noticia Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 64px;
+    text-align: center;
+    color: #30233D;
+}
+
+
+
+.author {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.name {
+    margin-right: 10px;
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #F61067;
+}
+.dash {
+    margin-right: 10px;
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #30233D;
+}
+.company {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    color: #30233D;
+}
+
+

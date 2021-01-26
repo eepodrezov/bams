@@ -1,0 +1,51 @@
+.container {
+    margin: 20px;
+    background-color: #30124E;
+    display: flex;
+    justify-content:left;
+}
+
+.image {
+    width: 50%;
+    height: 50%;
+}
+
+.image_container {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    
+  }
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.9;
+    background-color: #30124E;
+    mix-blend-mode: normal, multiply;
+  }
+  
+  
+
+
+.logos {
+    margin-top: 70px;
+    width: 66.6%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text {
+    width: 50%;
+}

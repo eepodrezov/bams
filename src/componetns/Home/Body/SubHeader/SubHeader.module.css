@@ -1,0 +1,34 @@
+.container {
+    margin: 71px 0 0 -147px;
+    width: 833px;
+    height: 108px;
+    padding: 0 39px 0 147px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+
+    color: #FCFCFC;
+}
+
+.icon {
+    width: 48px;
+    height: 48px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+

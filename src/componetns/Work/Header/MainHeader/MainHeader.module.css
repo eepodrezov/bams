@@ -1,0 +1,13 @@
+.container {
+    margin-top: 18px;
+}
+
+.text {
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 67px;
+
+    color: #30233D;
+}
